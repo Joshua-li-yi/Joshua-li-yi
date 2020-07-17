@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data science
 - 📫 How to reach me: liyinankai1@163.com
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joshua-li-yi)](https://github.com/anuraghazra/github-readme-stats)
+![Joshua-li-yi's github stats](https://github-readme-stats.vercel.app/api?username=Joshua-li-yi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
