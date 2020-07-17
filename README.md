@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in Nankai University
+- 🌱 I’m currently learning DL and ML
+- 👯 I’m looking to collaborate on data science
+- 📫 How to reach me: liyinankai1@163.com
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joshua-li-yi)](https://github.com/anuraghazra/github-readme-stats)
