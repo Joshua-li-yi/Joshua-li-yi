@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in Nankai University
-- 🌱 I’m currently learning DL and ML
+- 🌱 I’m currently learning quant, DL and ML
 - 👯 I’m looking to collaborate on data science
 - 📫 How to reach me: liyinankai1@163.com
 
